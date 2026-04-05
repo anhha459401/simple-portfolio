@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_python)">
+    <path d="M40 15C30 15 28 20 28 24V30H42V32H22C18 32 15 36 15 40C15 44 18 48 22 48H28V42C28 38 32 35 36 35H48C52 35 56 32 56 28V24C56 20 52 15 40 15Z" fill="white"/>
+    <path d="M40 65C50 65 52 60 52 56V50H38V48H58C62 48 65 44 65 40C65 36 62 32 58 32H52V38C52 42 48 45 44 45H32C28 45 24 48 24 52V56C24 60 28 65 40 65Z" fill="white"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_python">
+      <rect width="80" height="80" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

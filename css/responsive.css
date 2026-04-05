@@ -23,7 +23,7 @@
     transform: none !important;
   }
 
-  .softSkill__book_icons {
+  .softSkills__book_icons {
     display: none;
   }
 }
@@ -51,7 +51,7 @@
     align-items: center;
   }
 
-  .header__content-left {
+  .header__content--left {
     align-items: center;
 
     & p {
@@ -124,7 +124,7 @@
     margin-top: 20px;
   }
 
-  .header_badge_container {
+  .header__badge_container {
     flex-direction: column;
   }
 
